@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">GPS-Distance</string>
+    <string name="recordbttn">Record</string>
+    <string name="record_location">Record Location</string>
+    <string name="insta_velocity">Instantaneous velocity</string>
+    <string name="velocity2points">Velocity between 2 points</string>
+    <string name="overall_veclocity">Overall Veclocity</string>
+    <string name="distance_2_points">Distance between 2 points</string>
+    <string name="total_d">Total Distance</string>
+    <string name="location">Location</string>
+
 </resources>
